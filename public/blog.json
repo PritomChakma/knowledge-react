@@ -1,0 +1,52 @@
+[
+  {
+    "id": 101,
+    "cover": "https://i.ibb.co.com/4fWV6X8/freepik-upload-19224.jpg",
+    "title": "the future of technology",
+    "author": "emily summers",
+    "author_img": "https://i.ibb.co.com/Bg2XQr2/istockphoto-1289220781-612x612.jpg",
+    "posted_date": "2024-08-15",
+    "reading_time": 8,
+    "hashtag": ["#techtrends", "#innovation", "#ai"]
+  },
+  {
+    "id": 102,
+    "cover": "https://i.ibb.co.com/Nt8qq4n/freepik-upload-52838.jpg",
+    "title": "exploring ancient civilizations",
+    "author": "david roberts",
+    "author_img": "https://i.ibb.co.com/99L6X8L/istockphoto-478100204-1024x1024.jpg",
+    "posted_date": "2024-07-22",
+    "reading_time": 10,
+    "hashtag": ["#history", "#ancientworld", "#archaeology"]
+  },
+  {
+    "id": 103,
+    "cover": "https://i.ibb.co.com/tXsvfvG/freepik-upload-3536.jpg",
+    "title": "mastering the art of cooking",
+    "author": "sarah lee",
+    "author_img": "https://i.ibb.co.com/8g1xCsn/depositphotos-250363866-stock-photo-woman-using-laptop-computer.webp",
+    "posted_date": "2024-09-05",
+    "reading_time": 5,
+    "hashtag": ["#foodie", "#cookingtips", "#gourmet"]
+  },
+  {
+    "id": 104,
+    "cover": "https://i.ibb.co.com/ZhtcbW8/freepik-upload-69821.jpg",
+    "title": "a journey through space",
+    "author": "michael turner",
+    "author_img": "https://i.ibb.co.com/jysmW5L/freepik-upload-84495.jpg",
+    "posted_date": "2024-06-18",
+    "reading_time": 12,
+    "hashtag": ["#astronomy", "#spacetravel", "#cosmos"]
+  },
+  {
+    "id": 105,
+    "cover": "https://i.ibb.co.com/1nnx0L9/freepik-upload-39862.jpg",
+    "title": "the psychology of happiness",
+    "author": "jessica nguyen",
+    "author_img": "https://i.ibb.co.com/VVsXxZX/pritom.png",
+    "posted_date": "2024-10-01",
+    "reading_time": 7,
+    "hashtag": ["#mentalhealth", "#happiness", "#wellbeing"]
+  }
+]
