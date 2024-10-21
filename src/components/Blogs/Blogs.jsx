@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import Blog from "../Blog/Blog";
 
-const Blogs = ({ handleAddToBookmark }) => {
+const Blogs = ({ handleAddToBookmark, markAsRead }) => {
   const [blogs, setBlogs] = useState([]);
   useEffect(() => {
     fetch("blog.json")
@@ -15,6 +15,7 @@ const Blogs = ({ handleAddToBookmark }) => {
       {blogs.map((blog) => (
         <Blog
           handleAddToBookmark={handleAddToBookmark}
+          markAsRead={markAsRead}
           key={blog.id}
           blog={blog}
         ></Blog>

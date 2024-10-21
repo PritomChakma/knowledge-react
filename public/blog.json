@@ -1,13 +1,13 @@
 [
   {
     "id": 101,
-    "cover": "https://i.ibb.co.com/4fWV6X8/freepik-upload-19224.jpg",
-    "title": "the future of technology",
-    "author": "emily summers",
-    "author_img": "https://i.ibb.co.com/Bg2XQr2/istockphoto-1289220781-612x612.jpg",
-    "posted_date": "2024-08-15",
-    "reading_time": 8,
-    "hashtag": ["#techtrends", "#innovation", "#ai"]
+    "cover": "https://i.ibb.co.com/1nnx0L9/freepik-upload-39862.jpg",
+    "title": "the psychology of happiness",
+    "author": "Pritom Chakma",
+    "author_img": "https://i.ibb.co.com/VVsXxZX/pritom.png",
+    "posted_date": "2024-10-01",
+    "reading_time": 7,
+    "hashtag": ["#mentalhealth", "#happiness", "#wellbeing"]
   },
   {
     "id": 102,
@@ -41,12 +41,12 @@
   },
   {
     "id": 105,
-    "cover": "https://i.ibb.co.com/1nnx0L9/freepik-upload-39862.jpg",
-    "title": "the psychology of happiness",
-    "author": "jessica nguyen",
-    "author_img": "https://i.ibb.co.com/VVsXxZX/pritom.png",
-    "posted_date": "2024-10-01",
-    "reading_time": 7,
-    "hashtag": ["#mentalhealth", "#happiness", "#wellbeing"]
+    "cover": "https://i.ibb.co.com/4fWV6X8/freepik-upload-19224.jpg",
+    "title": "the future of technology",
+    "author": "emily summers",
+    "author_img": "https://i.ibb.co.com/Bg2XQr2/istockphoto-1289220781-612x612.jpg",
+    "posted_date": "2024-08-15",
+    "reading_time": 8,
+    "hashtag": ["#techtrends", "#innovation", "#ai"]
   }
 ]
