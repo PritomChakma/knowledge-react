@@ -1,6 +1,6 @@
 import PropTypes from "prop-types";
 import { FaBookmark } from "react-icons/fa";
-const Blog = ({ blog, handleAdToBookmark }) => {
+const Blog = ({ blog, handleAddToBookmark }) => {
   const {
     cover,
     title,
@@ -27,7 +27,10 @@ const Blog = ({ blog, handleAdToBookmark }) => {
         {/* read time */}
         <div className="flex items-center gap-3">
           <p>{reading_time} min red</p>
-          <button className="text-orange-400 text-2xl">
+          <button
+            onClick={handleAddToBookmark}
+            className="text-orange-400 text-2xl"
+          >
             <FaBookmark></FaBookmark>
           </button>
         </div>
